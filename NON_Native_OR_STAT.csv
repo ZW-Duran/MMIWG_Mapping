@@ -1,0 +1,21 @@
+field_43,count,unique,empty,filled,min,max,min_length,max_length,mean_length,NAM
+County_Clean,"1","1","0","1",County_Clean,County_Clean,"12","12","12",COUNTY_CLE
+,"13","1","13","0",,,"0","0","0",
+Linn,"2","1","0","2",Linn,Linn,"4","4","4",LINN
+Jackson,"5","1","0","5",Jackson,Jackson,"7","7","7",JACKSON
+Jefferson,"8","1","0","8",Jefferson,Jefferson,"9","9","9",JEFFERSON
+Clatsop,"2","1","0","2",Clatsop,Clatsop,"7","7","7",CLATSOP
+Washington,"3","1","0","3",Washington,Washington,"10","10","10",WASHINGTON
+Hood River,"8","1","0","8",Hood River,Hood River,"10","10","10",HOOD RIVER
+Benton,"3","1","0","3",Benton,Benton,"6","6","6",BENTON
+Curry,"3","1","0","3",Curry,Curry,"5","5","5",CURRY
+Lane,"2","1","0","2",Lane,Lane,"4","4","4",LANE
+Umatilla,"16","1","0","16",Umatilla,Umatilla,"8","8","8",UMATILLA
+Clackamas,"1","1","0","1",Clackamas,Clackamas,"9","9","9",CLACKAMAS
+Klamath,"4","1","0","4",Klamath,Klamath,"7","7","7",KLAMATH
+Multnomah,"24","1","0","24",Multnomah,Multnomah,"9","9","9",MULTNOMAH
+Union,"3","1","0","3",Union,Union,"5","5","5",UNION
+Deschutes,"4","1","0","4",Deschutes,Deschutes,"9","9","9",DESCHUTES
+Tillamook,"4","1","0","4",Tillamook,Tillamook,"9","9","9",TILLAMOOK
+Douglas,"1","1","0","1",Douglas,Douglas,"7","7","7",DOUGLAS
+Lincoln,"1","1","0","1",Lincoln,Lincoln,"7","7","7",LINCOLN
